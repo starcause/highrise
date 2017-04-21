@@ -1,2 +1,2 @@
 # highrise
-Simple programs, mostly
+hello, world
